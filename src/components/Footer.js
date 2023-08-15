@@ -7,10 +7,12 @@ const Footer = () => {
         <p className="titel">Foodapp.com</p>
         <p>
           Free footer templates with different options like bottom fixed footer,
-          sticky footer, Here you can use rows and columns to organize your
-          footer content
+          sticky footer,
+          <br /> Here you can use rows and columns to organize your footer
+          content. 
         </p>
-        <p>&copy; All Right Reserve 2023</p>
+        <br />
+        <p className="">&copy; All Right Reserve 2023</p>
       </div>
       <div className="footer-section">
         <p className="titel">Contact Us</p>
